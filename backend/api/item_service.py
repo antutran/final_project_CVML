@@ -37,7 +37,10 @@ class ItemService:
                                 item_id = item.get("item_id")
                                 image_path = item.get("image_path")
                                 if item_id and image_path:
-                                    # No path conversion needed - meta.json already has correct paths
+                                    # Translate host path to container path
+                                    if image_path.startswith("/Users/tuantran/Downloads/CVML/dataset"):
+                                        image_path = image_path.replace("/Users/tuantran/Downloads/CVML/dataset", "/app/dataset")
+                                    
                                     self.item_cache[item_id] = image_path
                                     count += 1
                     except Exception as e:

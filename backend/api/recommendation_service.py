@@ -106,11 +106,14 @@ class RecommendationService:
             # Apply exploration mix to beta
             beta_used = exploration_mix(beta, eps=EPS_BETA)
         else:
-            # Manual mode: Use provided values
-            alpha_used = manual_alpha if manual_alpha is not None else 0.5
-            beta_used = manual_beta if manual_beta is not None else 0.5
+            # Manual mode: Use provided values and persist them to state
+            alpha_used = manual_alpha if manual_alpha is not None else float(state.get("alpha_current", 0.5))
+            beta_used = manual_beta if manual_beta is not None else beta
+            
+            # Persist manual overrides to session state
             state["alpha_current"] = alpha_used
-            # In manual mode, we don't apply exploration mix to beta
+            state["beta"] = beta_used
+            beta = beta_used  # Update local beta for response consistency
         
         # Condition KOL
         kol_vec, _, _ = condition_kol(user_vec, kol_clusters)
@@ -207,48 +210,29 @@ class RecommendationService:
                 "beta": float(state.get("beta", 0.5)),
             }
         
-        # Get selected outfits and reconstruct with embeddings
-        # Frontend sends outfits without embeddings, we need to rebuild them
-        from src2.item_repository import load_with_unisex
-        
-        selected_outfits_with_embs = []
-        for idx in selected_indices:
-            if idx >= len(outfits):
-                continue
-            outfit = outfits[idx]
+        # Reconstruct all outfits with embeddings for relative reference
+        all_outfits_with_embs = []
+        for idx, outfit in enumerate(outfits):
             items = outfit.get("items", [])
-            
-            # Reconstruct embeddings from item_ids
             embs_list = []
             for item in items:
                 item_id = item.get("id") or item.get("item_id", "")
-                if not item_id:
-                    continue
-                    
-                # Extract gender and category from item_id
-                # Format: male_top_0001 or female_bottom_0002
+                if not item_id: continue
                 parts = item_id.split("_")
                 if len(parts) >= 3:
-                    gender = parts[0]  # male, female, unisex
-                    category = parts[1]  # top, bottom, shoes, dress
-                    
                     try:
-                        # Load all items for this category
-                        emb_pool, meta_pool = load_with_unisex(gender, category)
-                        
-                        # Find matching item by ID
+                        emb_pool, meta_pool = load_with_unisex(parts[0], parts[1])
                         for i, meta in enumerate(meta_pool):
                             if meta.get("item_id") == item_id:
                                 embs_list.append(emb_pool[i])
                                 break
-                    except Exception as e:
-                        print(f"Warning: Could not load embedding for {item_id}: {e}")
-                        continue
-            
+                    except: continue
             if embs_list:
-                selected_outfits_with_embs.append({
-                    "embs": np.array(embs_list)
-                })
+                all_outfits_with_embs.append({"embs": np.array(embs_list), "orig_idx": idx})
+
+        selected_outfits_with_embs = [
+            o for o in all_outfits_with_embs if o["orig_idx"] in selected_indices
+        ]
         
         if not selected_outfits_with_embs:
             # Could not reconstruct any outfits with embeddings
@@ -263,9 +247,9 @@ class RecommendationService:
         # Condition KOL to get kol_vec
         kol_vec, _, _ = condition_kol(user_vec, kol_clusters)
         
-        # Calculate preference direction using reconstructed outfits
+        # Calculate preference direction using relative logic
         dir_value = direction_from_selected_outfits(
-            selected_outfits_with_embs, user_vec, kol_vec
+            selected_outfits_with_embs, all_outfits_with_embs, user_vec, kol_vec
         )
         
         print(f"DEBUG: dir_value = {dir_value}")

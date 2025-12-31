@@ -6,21 +6,26 @@ def cosine(a, b):
     return float(np.dot(a, b) / ((np.linalg.norm(a) + 1e-9) * (np.linalg.norm(b) + 1e-9)))
 
 
-def direction_from_selected_outfits(selected_outfits, user_vec, kol_vec):
+def direction_from_selected_outfits(selected_outfits, all_outfits, user_vec, kol_vec):
     """
-    dir_value = mean(sim_user - sim_kol) over selected outfits
-      >0 => leaning user
-      <0 => leaning kol
+    Relative Preference Logic:
+    dir_value = mean_bias(selected) - mean_bias(all_shown)
+      where bias = cosine(emb, user) - cosine(emb, kol)
+    
+    This ensures that picking the "most user-like" outfit among alternatives
+    always results in a positive dir_value, even if it's mathematically closer to KOL.
     """
-    if not selected_outfits:
+    if not selected_outfits or not all_outfits:
         return 0.0
 
-    diffs = []
-    for o in selected_outfits:
-        mean_emb = o["embs"].mean(axis=0)
-        diffs.append(cosine(mean_emb, user_vec) - cosine(mean_emb, kol_vec))
+    def get_bias(outfit):
+        mean_emb = outfit["embs"].mean(axis=0)
+        return cosine(mean_emb, user_vec) - cosine(mean_emb, kol_vec)
 
-    return float(np.mean(diffs))
+    selected_bias = np.mean([get_bias(o) for o in selected_outfits])
+    all_bias = np.mean([get_bias(o) for o in all_outfits])
+
+    return float(selected_bias - all_bias)
 
 
 # -----------------------------

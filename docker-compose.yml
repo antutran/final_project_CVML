@@ -11,6 +11,7 @@ services:
       - ./backend/data:/app/data
       - ./backend/sessions:/app/sessions
       - ./frontend/KOL:/app/frontend/KOL
+      - ./dataset:/app/dataset
     environment:
       - PYTHONUNBUFFERED=1
     networks:

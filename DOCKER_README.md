@@ -77,6 +77,24 @@ docker-compose build
 docker-compose up
 ```
 
+## Chạy ứng dụng Global (Công khai)
+
+Nếu bạn muốn cho người khác truy cập qua internet (không cần cùng mạng Wifi):
+
+1. Khởi động ứng dụng bằng Docker (nếu chưa chạy):
+   ```bash
+   docker-compose up -d
+   ```
+
+2. Chạy ngrok để tạo đường dẫn công khai:
+   ```bash
+   ngrok http 3000
+   ```
+
+3. Copy đường dẫn ở mục **Forwarding** (ví dụ: `https://xxx.ngrok-free.app`) để truy cập.
+
+---
+
 ## Lưu ý quan trọng
 
 1. **Firewall**: Nếu không thể truy cập từ các thiết bị khác, kiểm tra firewall của máy chủ và cho phép kết nối đến port 3000 và 8000.
