@@ -1,0 +1,21 @@
+name: ml_model_4
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - opencv
+  - matplotlib
+  - streamlit
+  - joblib
+  - pillow
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+      - git+https://github.com/openai/CLIP.git

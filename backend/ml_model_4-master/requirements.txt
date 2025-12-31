@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+opencv-python
+streamlit
+matplotlib
+joblib
+torch
+torchvision
+pillow
+git+https://github.com/openai/CLIP.git
