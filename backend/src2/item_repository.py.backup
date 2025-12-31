@@ -1,0 +1,37 @@
+# item_repository.py
+import json
+import numpy as np
+from pathlib import Path
+from src2.config import ITEM_EMB_ROOT
+
+ROOT = Path(ITEM_EMB_ROOT)
+
+def load_pool(gender, category):
+    emb = np.load(ROOT / gender / category / "emb_30d.npy")
+    with open(ROOT / gender / category / "meta.json", "r") as f:
+        meta = json.load(f)
+    
+    # Fix Windows paths to Mac paths
+    for item in meta:
+        if "image_path" in item:
+            image_path = item["image_path"]
+            if "D:\\CVML" in image_path:
+                image_path = image_path.replace("D:\\CVML", "/Users/tuantran/Downloads/CVML")
+            elif "D:" in image_path:
+                image_path = image_path.replace("D:", "/Users/tuantran/Downloads/CVML")
+            # Convert backslashes to forward slashes
+            image_path = image_path.replace("\\", "/")
+            item["image_path"] = image_path
+    
+    return emb, meta
+
+
+def load_with_unisex(gender, category):
+    emb1, meta1 = load_pool(gender, category)
+
+    try:
+        emb2, meta2 = load_pool("unisex", category)
+        return np.vstack([emb1, emb2]), meta1 + meta2
+    except FileNotFoundError:
+        # unisex chưa có data → bỏ qua
+        return emb1, meta1

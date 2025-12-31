@@ -1,0 +1,37 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/data:/app/data
+      - ./backend/sessions:/app/sessions
+      - ./frontend/KOL:/app/frontend/KOL
+    environment:
+      - PYTHONUNBUFFERED=1
+    networks:
+      - fashion-studio-network
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:8000
+      - NODE_ENV=production
+    depends_on:
+      - backend
+    networks:
+      - fashion-studio-network
+    restart: unless-stopped
+
+networks:
+  fashion-studio-network:
+    driver: bridge

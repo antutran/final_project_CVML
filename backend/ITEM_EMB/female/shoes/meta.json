@@ -1,0 +1,1130 @@
+[
+  {
+    "item_id": "female_shoes_0001",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0001.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0002",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0002.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0003",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0003.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0004",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0004.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0005",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0005.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0006",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0006.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0007",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0007.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0008",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0008.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0009",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0009.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0010",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0010.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0011",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0011.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0012",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0012.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0013",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0013.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0014",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0014.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0015",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0015.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0016",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0016.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0017",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0017.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0018",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0018.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0019",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0019.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0020",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0020.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0021",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0021.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0022",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0022.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0023",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0023.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0024",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0024.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0025",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0025.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0026",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0026.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0027",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0027.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0028",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0028.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0029",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0029.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0030",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0030.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0031",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0031.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0032",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0032.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0033",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0033.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0034",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0034.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0035",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0035.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0036",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0036.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0037",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0037.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0038",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0038.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0039",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0039.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0040",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0040.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0041",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0041.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0042",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0042.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0043",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0043.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0044",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0044.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0045",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0045.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0046",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0046.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0047",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0047.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0048",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0048.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0049",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0049.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0050",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0050.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0051",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0051.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0052",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0052.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0053",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0053.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0054",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0054.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0055",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0055.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0056",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0056.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0057",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0057.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0058",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0058.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0059",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0059.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0060",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0060.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0061",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0061.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0062",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0062.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0063",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0063.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0064",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0064.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0065",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0065.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0066",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0066.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0067",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0067.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0068",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0068.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0069",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0069.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0070",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0070.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0071",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0071.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0072",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0072.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0073",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0073.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0074",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0074.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0075",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0075.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0076",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0076.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0077",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0077.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0078",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0078.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0079",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0079.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0080",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0080.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0081",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0081.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0082",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0082.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0083",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0083.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0084",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0084.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0085",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0085.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0086",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0086.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0087",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0087.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0088",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0088.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0089",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0089.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0090",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0090.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0091",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0091.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0092",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0092.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0093",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0093.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0094",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0094.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0095",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0095.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0096",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0096.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0097",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0097.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0098",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0098.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0099",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0099.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0100",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0100.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0101",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0101.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0102",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0102.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0103",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0103.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0104",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0104.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0105",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0105.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0106",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0106.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0107",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0107.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0108",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0108.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0109",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0109.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0110",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0110.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0111",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0111.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0112",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0112.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0113",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0113.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0114",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0114.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0115",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0115.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0116",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0116.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0117",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0117.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0118",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0118.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0119",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0119.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0120",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0120.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0121",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0121.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0122",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0122.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0123",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0123.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0124",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0124.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0125",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0125.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0126",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0126.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0127",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0127.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0128",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0128.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0129",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0129.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0130",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0130.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0131",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0131.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0132",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0132.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0133",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0133.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0134",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0134.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0135",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0135.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0136",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0136.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0137",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0137.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0138",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0138.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0139",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0139.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0140",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0140.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0141",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0141.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0142",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0142.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0143",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0143.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0144",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0144.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0145",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0145.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0146",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0146.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0147",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0147.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0148",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0148.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0149",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0149.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0150",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0150.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0151",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0151.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0152",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0152.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0153",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0153.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0154",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0154.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0155",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0155.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0156",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0156.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0157",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0157.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0158",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0158.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0159",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0159.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0160",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0160.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0161",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0161.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0162",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0162.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0163",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0163.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0164",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0164.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0165",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0165.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0166",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0166.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0167",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0167.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0168",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0168.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0169",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0169.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0170",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0170.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0171",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0171.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0172",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0172.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0173",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0173.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0174",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0174.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0175",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0175.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0176",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0176.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0177",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0177.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0178",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0178.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0179",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0179.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0180",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0180.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0181",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0181.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0182",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0182.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0183",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0183.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0184",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0184.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0185",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0185.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0186",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0186.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0187",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0187.jpg",
+    "gender": "female",
+    "category": "shoes"
+  },
+  {
+    "item_id": "female_shoes_0188",
+    "image_path": "/Users/tuantran/Downloads/CVML/dataset/ITEMS_CLEAN/female/shoes/female_shoes_0188.jpg",
+    "gender": "female",
+    "category": "shoes"
+  }
+]
